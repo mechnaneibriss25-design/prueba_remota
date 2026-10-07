@@ -1,2 +1,6 @@
 hola
+<<<<<<< HEAD
 desde main
+=======
+desde desarollo
+>>>>>>> 8a9b094 (añade desde desarollo)
